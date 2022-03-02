@@ -1,1 +1,2 @@
-File 0 - commmand -> current working directory
+File 0 - command -> current working directory
+File 1 - command -> List items
